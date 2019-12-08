@@ -1,2 +1,2 @@
 # simple-mooc
-Desenvolvido em Python3 e Django 1.6
+Desenvolvido em Python3 e Django 1.9
